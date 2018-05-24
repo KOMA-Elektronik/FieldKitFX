@@ -1,7 +1,3 @@
-<span style="color:red">**We are working on getting the code ready for upload. Expect a solution by end of May latest.**</span>
-
------
-
 # KOMA Elektronik Field Kit FX
 
 In this repository you will find the STM32 source code for the [Field Kit FX](https://koma-elektronik.com/?product=field-kit-fx-modular-multi-effects-processor "Field Kit FX"). It controls the Looper, Bit Crusher, Sample Rate Reduction, Frequency Shifter and CV Matrix.
